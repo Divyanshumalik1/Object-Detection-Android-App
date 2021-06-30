@@ -1,4 +1,11 @@
-OBJECT DETECTION ANDROID APPLICATION \n
+OBJECT DETECTION ANDROID APPLICATION 
+
+
+
+
+
+
+
 This android application is based on object detection using an android mobile device. first I have trained a deep learning neural network on the COCO dataset and integrated the model by converting it to .tflite extension and adding it to my android application with the help of android studio. 
 Ater the model has been trained and integrated into android studio we can make use of our phones camera to detect different objects around us, as sown in the following pictures.
 
